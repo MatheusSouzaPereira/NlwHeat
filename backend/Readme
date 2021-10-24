@@ -1,0 +1,6 @@
+### Backend
+## Estrutura das  migration: 
+1 - Está sendo utilizado o prisma
+2 - utilize o comando: " yarn prima migrate dev" para conseguir rodar
+3 - Utilize o comando " yarn prisma studio" para abrir o o modelo no navegador
+4 - Está sendo usado o sqlite
